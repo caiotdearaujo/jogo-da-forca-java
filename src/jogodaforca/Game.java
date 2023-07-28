@@ -10,6 +10,7 @@ public class Game {
 	private Random random = new Random();
 
 	public void play() {
+		
 		int tries = 0;
 
 		String word = getWord();
